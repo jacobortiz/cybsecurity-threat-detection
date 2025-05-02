@@ -1,0 +1,1000 @@
+<39>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<176>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<145>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<140>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<132>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<175>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<190>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<4>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<1>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<141>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<131>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<142>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<152>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<130>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<30>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<179>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<153>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<131>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<145>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<178>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<9>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<130>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<154>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<2>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<190>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host7 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<1>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<1>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<25>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<191>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<128>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<163>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host4 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<26>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<163>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<163>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<134>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<185>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host2 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<177>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<0>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<175>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<172>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<166>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<174>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<179>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<146>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<182>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host1 sudo: 'su root' failed for user on /dev/pts/0
+<29>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<170>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<184>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<35>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<26>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<152>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host3 sudo: 'su root' failed for user on /dev/pts/0
+<27>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<33>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<134>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host5 sudo: 'su root' failed for user on /dev/pts/0
+<9>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<12>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<170>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<139>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<136>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<146>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<158>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<13>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<4>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<134>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host3 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<14>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<131>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host2 antivirus: Malware detected: BadWare.exe
+<29>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host3 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<143>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<2>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<128>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<14>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<154>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<158>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<171>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<158>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<134>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<164>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<154>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<129>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host3 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<151>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<8>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<148>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<158>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<9>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<183>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<6>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<136>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<30>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<187>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<173>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<3>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<24>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host3 sudo: 'su root' failed for user on /dev/pts/0
+<161>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<148>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<154>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host5 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<152>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<154>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<166>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<156>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<135>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<141>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<172>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<6>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<134>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host9 antivirus: Malware detected: BadWare.exe
+<160>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<143>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<35>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<9>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<165>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<190>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<152>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<159>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<129>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<134>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host10 antivirus: Malware detected: BadWare.exe
+<147>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host9 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<144>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<37>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<146>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<190>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<173>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<132>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host8 sudo: 'su root' failed for user on /dev/pts/0
+<33>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<28>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<157>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<137>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<9>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<4>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<178>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<31>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<141>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<155>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<30>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<133>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host1 sudo: 'su root' failed for user on /dev/pts/0
+<179>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<155>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<170>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<190>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<160>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<137>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<131>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<135>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<15>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<135>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host6 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<36>May 02 12:52:08 host10 sudo: 'su root' failed for user on /dev/pts/0
+<38>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<169>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<167>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<136>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<140>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<13>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<184>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<34>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host9 sudo: 'su root' failed for user on /dev/pts/0
+<157>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<191>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<180>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<177>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host3 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<4>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<188>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<38>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<175>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<189>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<134>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<134>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<136>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<30>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<9>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<7>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<149>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host1 sudo: 'su root' failed for user on /dev/pts/0
+<162>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<131>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<30>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<131>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<177>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<5>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<26>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host5 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<185>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<28>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<129>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<151>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<135>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<172>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<141>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host9 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<26>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<178>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<160>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<177>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<2>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<185>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<130>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<136>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host2 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<140>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<1>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<136>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<14>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<37>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<152>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<173>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<159>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<38>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host8 antivirus: Malware detected: BadWare.exe
+<5>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<156>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host5 sudo: 'su root' failed for user on /dev/pts/0
+<172>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<170>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<149>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<151>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<174>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host8 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<12>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<187>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<187>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<170>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<160>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<130>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<11>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<5>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<28>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<25>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<146>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<145>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host3 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<169>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<133>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<24>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<183>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<140>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<38>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<9>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host4 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<132>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<147>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<138>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<158>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<7>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<150>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host8 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<182>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host4 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<169>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host9 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<166>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<158>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<35>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<182>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<33>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<15>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<37>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<12>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<190>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<147>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<174>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<130>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<137>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<4>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<150>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host9 sudo: 'su root' failed for user on /dev/pts/0
+<129>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<188>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<13>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<6>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<11>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<189>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<169>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<140>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<182>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<150>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<9>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<146>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<153>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<7>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<3>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<191>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<134>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<10>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<28>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<131>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<182>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<175>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<5>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<9>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<132>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<24>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host6 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<128>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<38>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host3 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<161>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<138>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<142>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<136>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<8>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<166>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<25>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<163>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<176>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<148>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<188>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<149>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<184>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<129>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<164>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<32>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<170>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<177>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<189>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<185>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<5>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<162>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<170>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<137>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host1 antivirus: Malware detected: BadWare.exe
+<8>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<31>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host8 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<7>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<181>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<147>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<128>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<9>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<180>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<3>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<32>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<35>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<139>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<159>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host6 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<149>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<39>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<158>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<151>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host10 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<36>May 02 12:52:08 host2 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<36>May 02 12:52:08 host1 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<168>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<184>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<5>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<164>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<154>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<189>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<181>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<161>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<173>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<151>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<142>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<35>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<162>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<180>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<128>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<156>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<38>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<34>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<148>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host5 sudo: 'su root' failed for user on /dev/pts/0
+<182>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<3>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<179>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<138>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<185>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<141>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host8 antivirus: Malware detected: BadWare.exe
+<6>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<150>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<183>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<176>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<27>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<153>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<128>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<37>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<136>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<186>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host6 antivirus: Malware detected: BadWare.exe
+<7>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<35>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<162>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<132>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<5>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<163>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<0>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host6 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<184>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<35>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<1>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<167>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<173>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<32>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<27>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<179>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<139>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<139>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<29>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<188>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<30>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<171>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host6 sudo: 'su root' failed for user on /dev/pts/0
+<6>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<187>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<8>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<157>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<153>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<159>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<130>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<172>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host6 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<2>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host6 sudo: 'su root' failed for user on /dev/pts/0
+<175>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<152>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<129>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<168>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<157>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<157>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<174>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<147>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<137>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<25>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<177>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<157>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<186>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<8>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<139>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<151>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<14>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host1 antivirus: Malware detected: BadWare.exe
+<164>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<152>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<0>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<155>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<33>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host7 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<170>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<27>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<6>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<164>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<150>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<8>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<29>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<184>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host7 antivirus: Malware detected: BadWare.exe
+<137>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<150>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<9>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<150>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<24>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<39>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<173>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<173>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<147>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<163>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<143>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<6>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<186>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<191>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<178>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<159>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<38>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host2 sudo: 'su root' failed for user on /dev/pts/0
+<2>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<5>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<148>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<13>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<184>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<170>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<140>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<186>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<191>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<166>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<4>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<189>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<167>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<26>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<26>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<128>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<190>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<150>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<129>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<1>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<27>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host6 sudo: 'su root' failed for user on /dev/pts/0
+<135>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<167>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<170>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<132>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<136>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<165>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<158>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<177>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<184>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host7 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<34>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<34>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<9>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<148>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<187>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<188>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<139>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<160>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<156>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<33>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<141>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host6 sudo: 'su root' failed for user on /dev/pts/0
+<149>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<138>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<181>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<138>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host8 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<163>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host7 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<36>May 02 12:52:08 host9 antivirus: Malware detected: BadWare.exe
+<136>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<177>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host3 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<185>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<3>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host3 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<141>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<142>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<184>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<187>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<130>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<163>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<183>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<144>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<5>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<137>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<2>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<152>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<162>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<11>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<145>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<151>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<128>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host3 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<146>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<129>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<145>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<163>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<34>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<135>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<147>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<173>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<5>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<147>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<139>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<180>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<129>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<159>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<136>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<139>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host6 antivirus: Malware detected: BadWare.exe
+<28>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<144>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host5 sudo: 'su root' failed for user on /dev/pts/0
+<0>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<158>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<39>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<165>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<9>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<190>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<15>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<146>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<129>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<153>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host8 antivirus: Malware detected: BadWare.exe
+<179>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<9>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<132>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<35>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<2>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<185>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<136>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<165>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<137>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<37>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<8>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<175>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<139>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<149>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<173>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<185>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host9 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<189>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<179>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<10>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<136>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<189>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<6>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host6 antivirus: Malware detected: BadWare.exe
+<171>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<30>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<155>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<158>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<151>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<149>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<156>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<142>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<31>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<169>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<151>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<155>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<167>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<9>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<144>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host1 sudo: 'su root' failed for user on /dev/pts/0
+<128>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<185>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<8>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<159>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<154>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<152>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<136>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<10>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<1>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<28>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host8 sudo: 'su root' failed for user on /dev/pts/0
+<160>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<177>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host7 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<39>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<37>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<142>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<159>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<160>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<188>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<181>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<143>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<13>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host5 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<39>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<156>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host3 antivirus: Malware detected: BadWare.exe
+<190>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<2>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<130>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<12>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<137>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<175>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<182>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<138>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<0>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<186>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<11>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<151>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<153>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<161>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<142>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<142>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host8 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<156>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<184>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<11>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<183>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<25>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<163>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<143>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<169>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<179>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<182>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<156>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<159>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<154>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<140>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<154>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<24>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<186>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<158>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<35>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<32>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<139>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<1>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<151>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<158>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<147>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<25>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<4>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<25>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<171>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<141>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<13>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<179>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<134>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host2 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<172>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<169>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<25>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<166>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<188>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<144>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<189>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<184>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<143>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<10>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<168>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<7>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<132>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host9 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<36>May 02 12:52:08 host1 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<3>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<177>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<182>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<30>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<161>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<163>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<139>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<176>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<6>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<137>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<144>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host7 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<3>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<132>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<5>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<172>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<157>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<10>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<172>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<177>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<145>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<163>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<168>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<141>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<140>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<0>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<15>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host3 antivirus: Malware detected: BadWare.exe
+<138>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<133>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<167>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<163>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<148>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<30>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<180>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<174>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<11>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<25>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<24>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<132>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<33>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<32>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<132>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<157>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<3>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<27>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<32>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<37>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<152>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<147>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<24>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<151>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<34>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<175>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<11>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<12>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<141>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<39>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<12>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<5>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<144>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<33>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<13>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host10 antivirus: Malware detected: BadWare.exe
+<11>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<183>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<29>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<27>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<156>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<26>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<153>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<137>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<34>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<26>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<130>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<181>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<131>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<130>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<183>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host10 sudo: 'su root' failed for user on /dev/pts/0
+<36>May 02 12:52:08 host7 sudo: 'su root' failed for user on /dev/pts/0
+<160>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<177>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host4 sudo: 'su root' failed for user on /dev/pts/0
+<191>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host4 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<1>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<0>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host7 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<4>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host7 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<151>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<30>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<160>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host8 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<132>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<14>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<15>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<171>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<147>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host3 antivirus: Malware detected: BadWare.exe
+<188>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<153>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<133>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<156>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<39>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<138>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<30>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<15>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host7 sudo: 'su root' failed for user on /dev/pts/0
+<174>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<152>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<138>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<172>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<185>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<27>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<163>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<144>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host1 sudo: 'su root' failed for user on /dev/pts/0
+<154>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<14>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<4>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<130>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<39>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host9 sudo: 'su root' failed for user on /dev/pts/0
+<15>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host1 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<166>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<181>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<35>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<132>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<152>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<174>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host1 antivirus: Malware detected: BadWare.exe
+<35>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<35>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<3>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<183>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host5 sudo: 'su root' failed for user on /dev/pts/0
+<31>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<163>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<3>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<169>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<15>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<141>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<156>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<162>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<31>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<183>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<15>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<33>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<181>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<146>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<4>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<165>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<134>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<154>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<128>May 02 12:52:08 host9 systemd: Started Daily apt upgrade and clean activities.
+<7>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<140>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<11>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<149>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<161>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<177>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<30>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<171>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host1 sudo: 'su root' failed for user on /dev/pts/0
+<0>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<140>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<15>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<1>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<137>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<157>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<180>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<163>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<130>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<11>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<175>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<187>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<2>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<185>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<187>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host9 sudo: 'su root' failed for user on /dev/pts/0
+<172>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<145>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<35>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<39>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<35>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<36>May 02 12:52:08 host3 sudo: 'su root' failed for user on /dev/pts/0
+<6>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<191>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<33>May 02 12:52:08 host1 kernel: [0.000000] Linux version 5.4.0-42-generic
+<128>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<144>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<10>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<147>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<6>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<134>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<5>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<150>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<144>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<151>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<173>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<190>May 02 12:52:08 host10 systemd: Started Daily apt upgrade and clean activities.
+<35>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<34>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<159>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<129>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<146>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<170>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host3 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<134>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<152>May 02 12:52:08 host8 kernel: [0.000000] Linux version 5.4.0-42-generic
+<137>May 02 12:52:08 host9 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<179>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<130>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<185>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<146>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<154>May 02 12:52:08 host9 kernel: [0.000000] Linux version 5.4.0-42-generic
+<190>May 02 12:52:08 host2 kernel: [0.000000] Linux version 5.4.0-42-generic
+<143>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<132>May 02 12:52:08 host1 systemd: Started Daily apt upgrade and clean activities.
+<39>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<36>May 02 12:52:08 host4 sshd[1234]: Invalid user admin from 10.0.0.20 port 34567
+<4>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<147>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<8>May 02 12:52:08 host7 kernel: [0.000000] Linux version 5.4.0-42-generic
+<183>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<152>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<34>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<7>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<185>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<144>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<167>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<33>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<24>May 02 12:52:08 host5 systemd: Started Daily apt upgrade and clean activities.
+<128>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<137>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<151>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<27>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<10>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<140>May 02 12:52:08 host4 systemd: Started Daily apt upgrade and clean activities.
+<26>May 02 12:52:08 host3 systemd: Started Daily apt upgrade and clean activities.
+<6>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<13>May 02 12:52:08 host7 systemd: Started Daily apt upgrade and clean activities.
+<162>May 02 12:52:08 host2 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<178>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<169>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<34>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<141>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<182>May 02 12:52:08 host1 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<152>May 02 12:52:08 host4 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<4>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<157>May 02 12:52:08 host5 kernel: [0.000000] Linux version 5.4.0-42-generic
+<148>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<9>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<36>May 02 12:52:08 host9 httpd: Suspicious URL access: http://malicious.example.com/login.php
+<0>May 02 12:52:08 host6 kernel: [0.000000] Linux version 5.4.0-42-generic
+<5>May 02 12:52:08 host3 kernel: [0.000000] Linux version 5.4.0-42-generic
+<138>May 02 12:52:08 host6 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<132>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<137>May 02 12:52:08 host6 systemd: Started Daily apt upgrade and clean activities.
+<143>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<173>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<161>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<146>May 02 12:52:08 host10 kernel: [0.000000] Linux version 5.4.0-42-generic
+<130>May 02 12:52:08 host10 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<8>May 02 12:52:08 host5 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<162>May 02 12:52:08 host2 systemd: Started Daily apt upgrade and clean activities.
+<135>May 02 12:52:08 host8 systemd: Started Daily apt upgrade and clean activities.
+<189>May 02 12:52:08 host4 kernel: [0.000000] Linux version 5.4.0-42-generic
+<133>May 02 12:52:08 host8 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<141>May 02 12:52:08 host3 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+<178>May 02 12:52:08 host7 cron[1234]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
