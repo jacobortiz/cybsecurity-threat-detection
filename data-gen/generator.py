@@ -182,5 +182,5 @@ def generate_sample_data(num_records: int = 1000, output_dir: str = "data-gen"):
 
 if __name__ == "__main__":
     print("Generating sample data...")
-    generate_sample_data() 
+    generate_sample_data(1000) 
     print("Sample data generated successfully.")
