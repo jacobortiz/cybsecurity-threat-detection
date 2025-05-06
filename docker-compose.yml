@@ -2,20 +2,7 @@ services:
   redis:
     image: redis:latest
 
-  ml-api:
-    build: ./ml-api
-    ports: ["5000:5000"]
-    depends_on:
-      - redis
-
   processor:
     build: ./processor
-    depends_on: [redis, ml-api]
-
-  data-gen:
-    build: ./data-gen
-    depends_on: [redis]
-
-  frontend:
-    build: ./frontend
-    ports: ["3000:3000"]
+    depends_on:
+      - redis

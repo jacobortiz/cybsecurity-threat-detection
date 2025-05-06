@@ -84,31 +84,13 @@ To test the ML component independently, run the training script on open data (e.
 Simple pipeline to flow log data through parsing and ML, then generate alerts.
 
 Broker: Run a Redis container and use Python’s redis-py to publish/subscribe. Logs from the generator are pushed to a Redis channel (e.g. logs). Alternatively, a Python queue or even a filesystem tail loop could be used, but Redis is a common lightweight broker.
+
 Ingestion Script: A Python log producer script reads our synthetic log files (or generates events on the fly) and publishes each line/event to Redis. This simulates continuous log ingestion.
 
 Consumer & Parser: Another Python service subscribes to the same Redis channel. For each incoming log event, it parses the structured fields (splitting Zeek CSV, extracting syslog parts, etc.). It then prepares the feature vector for ML.
 Model Invocation: The parser calls the ML API (HTTP request to Flask) with event data. If the model predicts a threat (e.g. phishing or malware), the processor constructs an alert.
 
 Alert Routing: Alerts can be published to another channel or written to a file/DB. For MVP simplicity, the processor could append alerts to a JSON file or send them via WebSocket to the UI. Each alert might include timestamp, type (phish/malware), and details (e.g. URL or process name).
-
-This decouples components. For example, one can stop/resume the processor without losing data (Redis will queue until consumed). Using Redis pub/sub (or even Redis lists) avoids needing a heavyweight pipeline like Kafka. It’s straightforward to implement with Docker Compose (just add redis service and link to others). 
-
-For example, a processing script could look like:
-```
-r = redis.Redis(host='redis', port=6379)
-sub = r.pubsub()
-sub.subscribe('logs')
-for message in sub.listen():
-    if message['type']=='message':
-        event = json.loads(message['data'])
-        features = extract_features(event)
-        response = requests.post('http://ml-api:5000/predict', json=features)
-        result = response.json()
-        if result['is_phishing'] or result.get('is_malware'):
-            alert = {"time": event['ts'], "type": result, "details": event}
-            r.publish('alerts', json.dumps(alert))
-
-```
 
 ## Frontend
 Next.js
